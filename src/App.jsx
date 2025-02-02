@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import "../../movies.jsx";
+// import "../../movies.jsx";
 import Header from "./Header/header.jsx";
 import Slider from "./SectionSlider/slider.jsx";
 import ImgCard from "./SectionCard/ImgCard.jsx";
