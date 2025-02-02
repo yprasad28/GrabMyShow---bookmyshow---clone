@@ -1,8 +1,10 @@
-# React + Vite
+# GrabMyShow 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I revised the fundamentals of HTML, CSS (including box-sizing properties like margin and padding), Bootstrap grid layouts, 
+and React basics, including import/export components and the map function method. 
+Using this knowledge, I successfully built a ticket booking platform called "GrabMyShow!" 🎉
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
