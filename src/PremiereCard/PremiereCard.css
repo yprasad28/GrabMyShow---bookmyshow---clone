@@ -1,0 +1,36 @@
+.container1{
+    background-color: rgb(43, 49, 72);
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-right: 60px;
+    height: 85vh;
+    width: 100%;
+    padding: 40px;
+}
+
+.premierer-image{
+    height: 15vh;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.premierer-card-image{
+    height: 40vh;
+    border-radius: 10px;
+}
+
+.premierer-card-content{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.premier-name{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.premier-language{
+    color: white;
+}

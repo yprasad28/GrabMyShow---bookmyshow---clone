@@ -1,0 +1,22 @@
+.search-cards{
+    height: 10vh;
+    background-color: rgb(234, 239, 245);
+    margin: 10px;
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 4px;
+    
+}
+
+.search-card-name{
+    color: rgb(207, 70, 70);
+}
+
+.search-card-para{
+    color: rgb(113, 111, 111);
+}
+
+.search-card-head{
+    color: black;
+    margin-bottom: 20px;
+}

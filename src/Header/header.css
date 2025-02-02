@@ -1,0 +1,29 @@
+.search{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid grey;
+    width: 400px;
+    height: 40px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    
+}
+
+.navItem{
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.container{
+    width: 100%;
+    
+    margin-right: 150px;
+}
+
+.heading{
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+}
+

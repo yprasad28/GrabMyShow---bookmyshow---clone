@@ -1,0 +1,35 @@
+.section{
+    background-image: url("https://img.freepik.com/free-vector/realistic-horizontal-cinema-movie-time-poster-with-3d-glasses-snacks-tickets-clapper-reel-blue-background-with-bokeh-vector-illustration_1284-77013.jpg?t=st=1738140619~exp=1738144219~hmac=951cd3475497663f8353b614c5ba01f10a4d1fc3c6ba4ca557eb05b92ba53b07&w=1380");
+    background-size: cover;
+    
+    height: 15vh;
+    width: 85%;
+    
+    margin: 30px;
+    z-index: -5;
+    border-radius: 12px;
+   
+    margin-left: 75px;
+    padding-left: 450px;
+    padding-top: 15px;
+}
+
+h3{
+    color: rgb(225, 9, 9);
+    font-weight: 650;
+}
+
+span{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(249, 235, 219);
+    letter-spacing: 4px;
+    font-style: italic;
+}
+
+h1{
+    font-weight: 650;
+    color: rgb(241, 163, 29);
+    font-size: 32px;
+}

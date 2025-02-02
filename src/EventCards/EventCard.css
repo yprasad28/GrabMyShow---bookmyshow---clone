@@ -1,0 +1,65 @@
+.event-card0{
+    background-image: url("https://img.freepik.com/free-photo/surprised-happy-boy-pointing-fingers-up_171337-16396.jpg?t=st=1738146726~exp=1738150326~hmac=96347bb108686989f2677bd1897451af14888ab2f6e8a4ce3beef40b2653702b&w=1060");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    /* margin: 20px;
+    margin-left: 10px; */
+    border-radius: 20px;
+}
+.event-card1{
+    background-image: url("https://img.freepik.com/free-photo/close-up-photo-young-successful-business-man-black-suit_171337-9509.jpg?t=st=1738385153~exp=1738388753~hmac=96c471134c306492c9d7f50171ac5d290c81b8388570249c68120af9dff56cfb&w=1060");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    /* margin: 20px;
+    margin-left: 10px; */
+    border-radius: 20px;
+}
+
+.event-card2{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-young-lady-wearing-headphones-squeeze-her-fists_144627-77113.jpg?t=st=1738385410~exp=1738389010~hmac=ad5d2138f839cf6659fccb6acfb4bde39af4c15a8d5fa22dafc239e47fdb56b7&w=1060");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    /* margin: 20px;
+    margin-left: 10px; */
+    border-radius: 20px;
+}
+
+.event-card3{
+    background-image: url("https://img.freepik.com/free-photo/front-view-young-male-with-pink-roses-pink-color_140725-147070.jpg?t=st=1738385555~exp=1738389155~hmac=e164dda6146ab01e82af3bf11ac8b9fe08f82e293aa3b0bd92539cbc7f3b5f51&w=1060");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    /* margin: 20px;
+    margin-left: 10px; */
+    border-radius: 20px;
+}
+
+.event-card4{
+    background-image: url("https://img.freepik.com/free-photo/boy-driving-toy-truck-amusement-park_58702-7337.jpg?t=st=1738385698~exp=1738389298~hmac=ff4e34cd1734b20949f00933a6178bb435d7875b1ba5cbf323a3d7921e6905eb&w=1060");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    /* margin: 20px;
+    margin-left: 10px; */
+    border-radius: 20px;
+}
+
+
+
+
+.event-head{
+    color: white;
+    font-size: 22px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.event-para{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    padding: 10px;
+}
